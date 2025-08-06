@@ -14,4 +14,6 @@ plt.ylabel('Price of house($1000s)')
 plt.title("Linear regression on house prices")
 plt.legend()
 plt.grid(True)
+
 plt.show()
+
